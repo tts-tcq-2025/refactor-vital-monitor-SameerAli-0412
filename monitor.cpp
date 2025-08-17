@@ -1,4 +1,4 @@
-#include "./monitor.h"
+/*#include "./monitor.h"
 #include <assert.h>
 #include <thread>
 #include <chrono>
@@ -36,3 +36,4 @@ int vitalsOk(float temperature, float pulseRate, float spo2) {
   }
   return 1;
 }
+*/ //done in C code
